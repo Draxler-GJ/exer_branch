@@ -1,0 +1,5 @@
+commit 11>> c11.txt
+echo commit 11>> c11.txt
+
+exit
+
