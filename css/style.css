@@ -1,0 +1,23 @@
+/*ESTILOS PARA LA PÁGINA index.html*/
+
+/*Aplicar el reset*/
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+/*Variables*/
+
+:root{
+    --color01: rgb(200,100,0);
+    --color02: rgb(0,100,200);
+    --text: Verdana;
+    --aling: center;
+}
+
+/*index.html*/
+
+html{
+    background: var(--color02);
+    color: var(--color01);
+    text-align: var(--aling);
+    font-family: var(--text);
+}
