@@ -2,6 +2,6 @@
 ## Practicar de cara al futuro saber desarrollar proyectos
 
 
-| Tabla | Usuario |
-|-------!---------|
+| Tabla |  Usuario  |
+|-------!-----------|
 | Prueba| Draxler-GJ|
